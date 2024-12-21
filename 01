@@ -1,0 +1,13 @@
+1. Difference between React and ReactDOM?
+React: Handles the logic, components, and virtual DOM.
+ReactDOM: Responsible for rendering React components to the real DOM in the browser
+
+2. Library - collection of code snippets used to perform particular task and integrate in application code for faster development
+3. Framework - provides the basic structure to a web/application
+Both are code implemented by third parties but inversion of control is different for both
+
+3. CDN -  is a system of distributed servers that work together to deliver content to users in a more efficient and faster manner.
+4. React - javascript library
+5. Bundler - A bundler is a tool that bundles our app, packages our app so that it can be shipped to production.
+
+6.npx means ‘execute using npm’
